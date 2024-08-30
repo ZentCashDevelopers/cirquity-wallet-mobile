@@ -10,7 +10,7 @@
     "postinstall": "./node_modules/.bin/rn-nodeify --install fs,dgram,process,path,console,crypto,buffer,stream,vm,http,https,url,zlib,net,assert,tls --hack --yarn; ./node_modules/.bin/jetify"
   },
   "dependencies": {
-    "@haskkor/react-native-pincode": "1.22.2",
+    "@haskkor/react-native-pincode": "1.21.1",
     "@react-native-community/async-storage": "1.8.1",
     "@react-native-community/masked-view": "0.1.7",
     "@react-native-community/netinfo": "5.6.2",
