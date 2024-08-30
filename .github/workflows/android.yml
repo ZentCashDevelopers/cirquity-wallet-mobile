@@ -69,7 +69,7 @@ jobs:
         run: |
             chmod 777 $HOME/Android/Sdk/tools/bin/*
             /home/runner/Android/Sdk/tools/bin/sdkmanager --list --include_obsolete --sdk_root=$ANDROID_HOME
-            yes | /home/runner/Android/Sdk/tools/bin/sdkmanager "platform-tools" "cmdline-tools;latest" "ndk;21.4.7075529" "platforms;android-29" "build-tools;29.0.2" --sdk_root=$ANDROID_HOME --include_obsolete
+            yes | /home/runner/Android/Sdk/tools/bin/sdkmanager "platform-tools" "cmdline-tools;latest" "ndk;21.4.7075529" "platforms;android-28" "build-tools;28.0.3" --sdk_root=$ANDROID_HOME --include_obsolete
 
       # Building APK APP      
       - name: Building APK APP
