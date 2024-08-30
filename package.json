@@ -59,6 +59,7 @@
     "rn-nodeify": "^10.0.1",
     "stream-browserify": "^2.0.2",
     "url": "~0.11.0",
+    "turtlecoin-wallet-backend": "latest",
     "vm-browserify": "1.1.0"
   },
   "devDependencies": {
