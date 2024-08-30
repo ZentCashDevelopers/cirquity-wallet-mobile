@@ -43,7 +43,7 @@ jobs:
           sed -i 's/md4/md5/g' node_modules/metro-cache/src/stableHash.js
           cat node_modules/metro-cache/src/stableHash.js
           yarn postinstall
-          rm -r /root/.gradle/
+          sudo rm -r /root/.gradle/
 
       # Hack Metro
       - name: Hack Metro
