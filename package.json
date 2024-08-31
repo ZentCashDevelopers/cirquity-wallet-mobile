@@ -38,7 +38,7 @@
     "react-native-exit-app": "^1.1.0",
     "react-native-fingerprint-scanner": "git+https://github.com/hieuvp/react-native-fingerprint-scanner.git#9cecc0db326471c571553ea85f7c016fee2f803d",
     "react-native-gesture-handler": "^1.3.0",
-    "react-native-keychain": "6.0.0",
+    "react-native-keychain": "4.0.1",
     "react-native-level-fs": "^3.0.1",
     "react-native-month-selector": "^1.4.0",
     "react-native-permissions": "^2.2.0",
