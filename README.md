@@ -1,7 +1,5 @@
 # CirqWallet - A mobile, native Cirquity wallet
 
-![Screenshot](https://user-images.githubusercontent.com/44407420/77001404-2eb7ec00-695a-11ea-8cf4-c125269336b1.png)
-
 ### Initial Setup
 
 * `cd cirquity-wallet-mobile`
